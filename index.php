@@ -1,1 +1,2 @@
-test index
+<?php
+echo "test index";
